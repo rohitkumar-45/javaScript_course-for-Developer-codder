@@ -1,0 +1,1 @@
+This is a Full stack web development course with advanced AI Integration and using Python , Langchain, Fast Api, 
